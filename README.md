@@ -1,2 +1,4 @@
 # segmented-tibetan
 Segmented files for tibetan. These are the input files for the Buddhanexus neural network.
+
+The Tibetan textual corpora used in BuddhaNexus were obtained from various sources, including Asian Classics Input Projects (ACIP) for the Tibetan Buddhist Canon, Buddhist Digital Resource Center (BDRC) for the rNying ma bka’ ma, and Karma Delek for the rNying ma rgyud ’bum. As a result the digital texts might occasionally differ in their conventions. Moreover, due to the huge amount of material, there has been no attempt by BuddhaNexus to improve the quality of the texts (e.g. removing typos, introducing identical conventions, and the like). Occasionally, however, some minor changes to the texts were made for technical reasons (e.g. standardization of transliterations or formats). 
